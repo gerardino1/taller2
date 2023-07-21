@@ -1,5 +1,0 @@
-En el dia de hoy los temas tratados son:
- * Pasar de rama en rama y subir el repositorio a github
- * Git incluye las funcionalidades de  crear ramas y fusiones y reescribir  historiales de repositorios, lo cual ha  dado como resultado muchas  herramientas y flujos de trabajo  innovadores y eficaces
-
- * Git es un sistema de control de versiones
