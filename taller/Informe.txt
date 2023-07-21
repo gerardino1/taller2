@@ -1,0 +1,6 @@
+En el dia de hoy los temas tratados son:
+* Pasar de rama en rama y subir el repositorio a github
+* Git incluye las funcionalidades de  crear ramas y fusiones y reescribir  historiales de repositorios, lo cual ha  dado como resultado muchas  herramientas y flujos de trabajo  innovadores y eficaces
+ “ramas
+* Como ignorar archivos para no ser comprometidos en el área de trabajo.
+* Cambiar de ramas y volver a la principal”
